@@ -23,8 +23,9 @@ These files represent the **raw data** obtained from satellite image processing 
 
 ### Word document (Supplementary information) 
 The Word file includes: 
-- **Tables with final data** on erosion, deposition, migration, and morphometric parameters.
+- **Tables with final data** on erosion, deposition, and morphometric parameters.
 - A **comparative graph of erosion and deposition**, classified by subperiods, which facilitates the visualization of temporal trends.
+- A **graph of Migration rates** of the Malinowski River across segments in sections A1, A2 and A3 during the three mining periods (minimal, moderate and intensive activity).
 - A **catalog of Landsat satellite images** used in the research, indicating the years and scenes used in the multitemporal analysis.
 
 
